@@ -1,0 +1,62 @@
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\bin\Debug\La Voiture.exe
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\bin\Debug\La Voiture.pdb
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\bin\Debug\La Voiture.xml
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.Resources.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La Voiture.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La Voiture.exe
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La Voiture.xml
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La Voiture.pdb
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmHome.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmStock.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmVentas.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmElabPropuesta.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.formImprimirPropuesta.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.formRegistVenta.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmRecibo.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmRegistCompra.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmCompras.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmOrdenCompra.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmDeudas.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La Voiture.exe
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La Voiture.xml
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La Voiture.pdb
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\bin\Debug\La Voiture.exe
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\bin\Debug\La Voiture.pdb
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\bin\Debug\La Voiture.xml
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmDeudas.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmHome.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmRegistCompra.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmStock.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmVentas.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmElabPropuesta.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.formImprimirPropuesta.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.formRegistVenta.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmRecibo.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmCompras.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmOrdenCompra.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.Resources.resources
+C:\Users\basesdatos\Desktop\LA VOITURE - CASI TERMINADO\La Voiture\La Voiture\obj\x86\Debug\La Voiture.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ET 35\La Voiture\Sistema\La Voiture\La Voiture\obj\x86\Debug\La_Voiture.frmChequePago.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La Voiture.exe
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La Voiture.xml
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La Voiture.pdb
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\bin\Debug\La Voiture.exe
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\bin\Debug\La Voiture.pdb
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\bin\Debug\La Voiture.xml
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.frmChequePago.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.frmDeudas.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.frmHome.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.frmRegistCompra.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.frmStock.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.frmVentas.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.frmElabPropuesta.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.formImprimirPropuesta.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.formRegistVenta.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.frmRecibo.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.frmCompras.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.frmOrdenCompra.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La_Voiture.Resources.resources
+C:\Users\Admin\Desktop\ET 35\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La Voiture.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ET 35\5to\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La Voiture.exe
+C:\Users\Admin\Desktop\ET 35\5to\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La Voiture.xml
+C:\Users\Admin\Desktop\ET 35\5to\La Voiture\LaVoiture_Sistema\La Voiture\obj\x86\Debug\La Voiture.pdb
